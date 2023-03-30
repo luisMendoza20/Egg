@@ -17,7 +17,7 @@ public class Ejerc_1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Scanner leer = new Scanner(System.in);
+       Scanner input = new Scanner(System.in);
         int[] vector = new int[100];// dimension vector 
         //vector[0] = 100; // imprime valores al vector
         // asigno valoresvector.length; 
